@@ -1,0 +1,7 @@
+[cache]
+    type = "reflink,copy"
+[core]
+    remote = drive
+    autostage = true
+['remote "drive"']
+    url = /Users/jan/Library/CloudStorage/GoogleDrive-jhorak@vsup.cz/My Drive/dvc-remotes/urban-strata-assets

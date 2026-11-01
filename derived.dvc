@@ -1,0 +1,6 @@
+outs:
+- md5: f38f140dae115dc9a9f4d39c53a3b233.dir
+  size: 76163324
+  nfiles: 30
+  hash: md5
+  path: derived
